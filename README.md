@@ -16,9 +16,10 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
    - In landscape mode, the rotated alternate layout uses the backdrop image instead and show the title and movie overview to the right of it.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src='walkthrough.gif' width=250><br>
+
+<img src='walkthrough2.gif' width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
