@@ -12,9 +12,9 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 <img src='walkthrough3.gif' width=250><br>
 
-### Notes
+<!-- ### Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. -->
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
@@ -37,9 +37,6 @@ Describe any challenges encountered while building the app.
 <img src='walkthrough.gif' width=250><br>
 
 <img src='walkthrough2.gif' width=450><br>
-
-### Notes
-Describe any challenges encountered while building the app.
 
 ### Open-source libraries used
 
